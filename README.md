@@ -1,4 +1,4 @@
-Spam Detecotr (Machine Learning Project)
+Spam Detector (Machine Learning Project)
 
 A Python-based machine learning project that classifies text messages as either "spam" or "ham" (regular messages) using Natural Language Processing and the Naive Bayes algorithm.
 
