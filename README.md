@@ -17,7 +17,7 @@ Features:
     
 - Classification Model: Uses the Naive Bayes algorithm, which is a standard for text classification.
     
-- Performance Metrics and Error Analysis: Outputs the accuracy and confusion matrix of the result as well as what entries the the model got wrong.
+- Performance Metrics and Error Analysis: Outputs the accuracy and confusion matrix of the result as well as what entries the model got wrong.
     
 
 Requirements:
@@ -27,5 +27,10 @@ This project requires Python 3.x and the following libraries:
 - scikit-learn
 
 Make sure to also download the SMSSpamCollection file too, and put in the same folder as main.py, that is the dataset that the projects work on, by default.
+
+
+How to use:
+
+After downloading main.py and SMSSpamCollection.txt files and putting them into the same folder, and downloading the libraries, open main.py into your IDE of choice and run the python script, it should display in the console, in order: The accuracy, the confusion matrix, False Positives and False Negatives.
 
 Github link: https://github.com/PadeanuTudor/Spam_Detector
