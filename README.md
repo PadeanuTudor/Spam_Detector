@@ -26,6 +26,6 @@ This project requires Python 3.x and the following libraries:
 - pandas
 - scikit-learn
 
-Make sure to also download the SMSSpamCollection file, that is the dataset that the projects work on, by default.
+Make sure to also download the SMSSpamCollection file too, and put in the same folder as main.py, that is the dataset that the projects work on, by default.
 
 Github link: https://github.com/PadeanuTudor/Spam_Detector
