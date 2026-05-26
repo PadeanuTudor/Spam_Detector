@@ -16,3 +16,5 @@ Requirements:
 This project requires Python 3.x and the following libraries:
     - pandas
     - scikit-learn
+
+Make sure to also download the SMSSpamCollection file, that is the dataset that the projects work on, by default.
